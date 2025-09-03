@@ -235,10 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - SQL community for advanced analytics techniques
 - Open source contributors for various tools and libraries
 
-## 📧 **Contact**
-**Shreyanshjaiswal** - [Your Email] - [Your LinkedIn]
 
-Project Link: [https://github.com/yourusername/student-performance-analysis](https://github.com/yourusername/student-performance-analysis)
 
 ---
 ⭐ **Star this repository if it helped you!** ⭐
