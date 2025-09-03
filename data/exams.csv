@@ -1,0 +1,17 @@
+exam_id,subject_id,teacher_id,exam_type,exam_date,max_score,semester,academic_year
+1,1,1,Midterm,2023-10-15,100,Fall,2023-24
+2,1,1,Final,2023-12-15,100,Fall,2023-24
+3,1,1,Quiz,2023-09-20,50,Fall,2023-24
+4,2,2,Midterm,2023-10-18,100,Fall,2023-24
+5,2,2,Final,2023-12-18,100,Fall,2023-24
+6,2,2,Assignment,2023-11-01,75,Fall,2023-24
+7,3,3,Midterm,2023-10-20,100,Fall,2023-24
+8,3,3,Final,2023-12-20,100,Fall,2023-24
+9,3,3,Quiz,2023-09-25,50,Fall,2023-24
+10,4,4,Midterm,2023-10-12,100,Fall,2023-24
+11,4,4,Final,2023-12-12,100,Fall,2023-24
+12,5,5,Midterm,2023-10-25,100,Fall,2023-24
+13,5,5,Final,2023-12-14,100,Fall,2023-24
+14,5,5,Assignment,2023-11-15,80,Fall,2023-24
+15,6,6,Midterm,2023-10-22,100,Fall,2023-24
+16,6,6,Final,2023-12-16,100,Fall,2023-24

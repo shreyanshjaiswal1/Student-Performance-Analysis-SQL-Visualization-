@@ -1,0 +1,26 @@
+student_id,first_name,last_name,date_of_birth,gender,grade_level,enrollment_date,parent_education,family_income_bracket
+1,Emily,Johnson,2007-03-15,F,11,2022-08-15,Bachelor Degree,50-75k
+2,Michael,Chen,2006-11-22,M,12,2021-08-15,Master Degree,75-100k
+3,Sarah,Williams,2008-01-08,F,10,2023-08-15,High School,25-50k
+4,David,Brown,2007-07-30,M,11,2022-08-15,PhD,100k+
+5,Jessica,Davis,2006-05-12,F,12,2021-08-15,Bachelor Degree,50-75k
+6,Ryan,Miller,2008-09-03,M,10,2023-08-15,Associate Degree,25-50k
+7,Amanda,Wilson,2007-12-18,F,11,2022-08-15,Master Degree,75-100k
+8,Kevin,Moore,2006-08-25,M,12,2021-08-15,High School,Under 25k
+9,Lisa,Taylor,2008-04-07,F,10,2023-08-15,Bachelor Degree,50-75k
+10,Brandon,Anderson,2007-10-14,M,11,2022-08-15,Master Degree,75-100k
+11,Natalie,Thomas,2006-02-28,F,12,2021-08-15,PhD,100k+
+12,Christopher,Jackson,2008-06-19,M,10,2023-08-15,High School,25-50k
+13,Ashley,White,2007-11-05,F,11,2022-08-15,Bachelor Degree,50-75k
+14,Daniel,Harris,2006-09-16,M,12,2021-08-15,Associate Degree,25-50k
+15,Megan,Clark,2008-03-23,F,10,2023-08-15,Master Degree,75-100k
+16,Joshua,Lewis,2007-05-11,M,11,2022-08-15,Bachelor Degree,50-75k
+17,Rachel,Lee,2006-12-02,F,12,2021-08-15,PhD,100k+
+18,Tyler,Walker,2008-07-27,M,10,2023-08-15,High School,Under 25k
+19,Stephanie,Hall,2007-01-13,F,11,2022-08-15,Bachelor Degree,50-75k
+20,Nicholas,Allen,2006-04-09,M,12,2021-08-15,Master Degree,75-100k
+21,Alexandra,Scott,2007-06-25,F,11,2022-08-15,Bachelor Degree,50-75k
+22,Matthew,Green,2006-10-17,M,12,2021-08-15,Master Degree,75-100k
+23,Samantha,Adams,2008-02-11,F,10,2023-08-15,High School,25-50k
+24,Andrew,Baker,2007-08-29,M,11,2022-08-15,PhD,100k+
+25,Lauren,Nelson,2006-04-14,F,12,2021-08-15,Bachelor Degree,50-75k

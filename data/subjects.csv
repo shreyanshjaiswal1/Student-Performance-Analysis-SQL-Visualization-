@@ -1,0 +1,16 @@
+subject_id,subject_name,subject_category,credit_hours,difficulty_level
+1,Advanced Mathematics,STEM,4,Hard
+2,Physics,STEM,4,Hard
+3,Chemistry,STEM,4,Medium
+4,Biology,STEM,3,Medium
+5,English Literature,Arts,3,Medium
+6,History,Social Studies,3,Medium
+7,Spanish,Languages,3,Easy
+8,Art,Arts,2,Easy
+9,Computer Science,STEM,4,Hard
+10,Economics,Social Studies,3,Medium
+11,Geography,Social Studies,2,Easy
+12,Music,Arts,2,Easy
+13,French,Languages,3,Easy
+14,Psychology,Social Studies,3,Medium
+15,Statistics,STEM,3,Hard

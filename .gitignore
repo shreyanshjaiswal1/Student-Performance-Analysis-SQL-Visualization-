@@ -1,0 +1,62 @@
+# Student Performance Analysis - Gitignore
+
+# Power BI files
+*.pbix.tmp
+*.pbix~
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python cache (if used for data processing)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# R files (if used)
+.Rhistory
+.RData
+.Ruserdata
+
+# Excel temp files
+~$*
+
+# Backup files
+*.bak
+*.backup
+
+# Large data files (uncomment if you have large datasets)
+# *.csv
+# data/large_datasets/
+
+# Environment variables
+.env
+.env.local
+
+# Database connection strings (security)
+connection_strings.txt
+db_config.json
